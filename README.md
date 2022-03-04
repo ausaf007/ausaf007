@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Md Ausaf Rashid</h1>
 <!-- <h3 align="center">I’m a dedicated and focused engineering student with hands-on knowledge of programming and software development. I’m passionate about developing programming projects that solve real-world problems. I also enjoy exploring new De-Fi projects & ecosystems that leverage the blockchain.</h3> -->
 
-- 🔭 I’m currently working on **blockchain-based desktop application.**
+- 🔭 I’m currently working on an **ML-based cryptocurrency price prediction tool.**
 
-- 🌱 I’m currently learning **Flutter framework and Machine Learning.**
+- 🌱 I’m currently learning **DSA and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Science.**
 
