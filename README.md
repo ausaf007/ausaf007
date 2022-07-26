@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an **ML-based cryptocurrency price prediction tool.**
 
-- 🌱 I’m currently learning **DSA and Machine Learning.**
+- 🌱 I’m currently exploring **backend web development with Node.js and TypeScript.**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Science.**
 
