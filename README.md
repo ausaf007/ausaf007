@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently exploring **backend web development with Node.js and TypeScript.**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science.**
+- 👯 I’m looking to collaborate on **Machine Learning and Blockchain-based projects.**
 
 - 💬 Ask me about **Java programming or MySQL database management system.**
 
