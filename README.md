@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Blockchain-based projects.**
 
-- 💬 Ask me about **Java programming or MySQL database management system.**
+- 💬 Ask me about **Java, Golang or MySQL database management system.**
 
 - 📫 How to reach me **ausafrashid111@gmail.com**
 
