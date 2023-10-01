@@ -22,4 +22,4 @@
 <!--<br /><br /><br /><br /><br />-->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ausaf007&show_icons=true&locale=en" alt="ausaf007" /></p>-->
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ausaf007&" alt="ausaf007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=ausaf007&" alt="ausaf007" /></p>
