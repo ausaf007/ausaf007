@@ -18,6 +18,6 @@ I turn business ideas into simple, well-structured code.
 <br/>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=ausaf007" alt="ausaf007" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=ausaf007&theme=transparent" alt="ausaf007" /></p>
 
 ![Checkout Activity Graph](https://github-readme-activity-graph-two-tau.vercel.app/graph?username=ausaf007&theme=tokyo-night&custom_title=Ausaf's%20Contribution%20Graph)
