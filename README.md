@@ -4,7 +4,7 @@
 <img align="right" alt="SVG" src="https://github.com/ausaf007/ausaf007/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/developer.svg" width="300px"/>
 <br/>
 
-I turn business ideas to simple, well-structured code. 
+I turn business ideas into simple, well-structured code. 
 
 ### About Me:
 
