@@ -85,7 +85,7 @@ I turn business ideas into simple, well-structured code.
 
 
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ausaf007&show_icons=true&hide_border=true&theme=transparent" alt="Ausaf's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaf007&theme=transparent&layout=compact&hide_border=true&exclude_repo=the-questioner" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ausaf007&show_icons=true&hide_border=true&theme=transparent&hide_rank=true" alt="Ausaf's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaf007&theme=transparent&layout=compact&hide_border=true&exclude_repo=the-questioner" /></a> |
 | ------------- | ------------- |
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=ausaf007&theme=transparent" alt="ausaf007" /></p>
