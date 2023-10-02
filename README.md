@@ -1,10 +1,10 @@
 ## Hello, World! 
 <a href='https://www.linkedin.com/in/md-ausaf-rashid/'><img align='left' alt="linkedin" src="https://github.com/ausaf007/ausaf007/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/ausaf_rashid/'><img align='left' alt="twitter" src="https://github.com/ausaf007/ausaf007/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/twitter.svg" height='18px'/></a>
-<img align="right" alt="SVG" src="https://github.com/ausaf007/ausaf007/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/developer.svg" width="300px"/>
 <br/>
 
 I turn business ideas into simple, well-structured code. 
+<img align="right" alt="SVG" src="https://github.com/ausaf007/ausaf007/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/developer.svg" width="300px"/>
 
 ### About Me:
 
