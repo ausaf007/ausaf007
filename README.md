@@ -83,6 +83,12 @@ I turn business ideas into simple, well-structured code.
 
 > A picture is worth a thousand words
 
+
+
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ausaf007&show_icons=true&hide_border=true&theme=transparent" alt="Ausaf's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaf007&theme=transparent&layout=compact&hide_border=true&exclude_repo=the-questioner" /></a> |
+| ------------- | ------------- |
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=ausaf007&theme=transparent" alt="ausaf007" /></p>
 
-![Checkout Activity Graph](https://github-readme-activity-graph-two-tau.vercel.app/graph?username=ausaf007&theme=tokyo-night&custom_title=Ausaf's%20Contribution%20Graph)
+| <picture><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=ausaf007&theme=tokyo-night&custom_title=Ausaf's%20Contribution%20Graph" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=ausaf007&theme=minimal&custom_title=Ausaf's%20Contribution%20Graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img src="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=ausaf007&theme=minimal&custom_title=Ausaf's%20Contribution%20Graph" /></picture> |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
