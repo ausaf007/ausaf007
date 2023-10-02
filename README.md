@@ -15,7 +15,69 @@ I turn business ideas into simple, well-structured code.
 -  &nbsp; 🔥 When not coding, I post hot takes on twitter: [@ausaf_rashid](https://twitter.com/ausaf_rashid)
 
 <br/>
-<br/>
+
+<h2 align="left">Preferred Technologies</h2>
+
+> It’s not the tools, but how you wield them that makes all the difference
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/go.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/nodejs.svg" width="48" height="48" alt="Nodejs" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/react.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/mysql.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>    
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./tech/java.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+  </tr>
+</table>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=ausaf007&theme=transparent" alt="ausaf007" /></p>
