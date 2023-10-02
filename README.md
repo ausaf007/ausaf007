@@ -88,10 +88,10 @@ I turn business ideas into simple, well-structured code.
 <div align="center">
 <div style="display: flex; justify-content: center;">
 <a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ausaf007&show_icons=true&hide_border=false&theme=transparent&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api?username=ausaf007&show_icons=true&hide_border=false&theme=transparent&hide_rank=true" />
 </a>
 <a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaf007&theme=transparent&layout=compact&hide_border=false&exclude_repo=the-questioner" />
+  <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api/top-langs/?username=ausaf007&theme=transparent&layout=compact&hide_border=false&exclude_repo=the-questioner" />
 </a>
 </div>
 </div>
