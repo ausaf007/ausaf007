@@ -79,6 +79,9 @@ I turn business ideas into simple, well-structured code.
   </tr>
 </table>
 
+<h2 align="left">Github Stats</h2>
+
+> A picture is worth a thousand words
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=ausaf007&theme=transparent" alt="ausaf007" /></p>
 
