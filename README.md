@@ -1,27 +1,23 @@
-<h1 align="center">Hello 👋, I'm Md Ausaf Rashid</h1>
-<!-- <h3 align="center">I’m a dedicated and focused engineering student with hands-on knowledge of programming and software development. I’m passionate about developing programming projects that solve real-world problems. I also enjoy exploring new De-Fi projects & ecosystems that leverage the blockchain.</h3> -->
+## Hello, World! 
+<a href='https://www.linkedin.com/in/md-ausaf-rashid/'><img align='left' alt="linkedin" src="https://github.com/ausaf007/ausaf007/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/ausaf_rashid/'><img align='left' alt="twitter" src="https://github.com/ausaf007/ausaf007/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/twitter.svg" height='18px'/></a>
+<img align="right" alt="SVG" src="https://github.com/ausaf007/ausaf007/blob/d98576344d5dd4c0297d60b636994e2463e623d7/assets/developer.svg" width="300px"/>
+<br/>
 
-- 🔭 I’m currently exploring **backend web development with Node.js and TypeScript.**
+I turn business ideas to simple, well-structured code. 
 
-- 👯 I’m looking to collaborate on **Machine Learning and Blockchain-based projects.**
+### About Me:
 
-- 💬 Ask me about **Java, Golang or MySQL database management system.**
+-  &nbsp; 👨‍💻 Coding Ethos: [grug brain dev](https://grugbrain.dev/)
+-  &nbsp; 📫 Best way to reach me: [email](mailto:ausafrashid111@gmail.com) 
+-  &nbsp; 📝 Checkout my developer blog: [ausaf.dev](https://ausaf.dev)
+-  &nbsp; 🔭 Currently I'm working on a devtool for one-command [Go server setup](https://github.com/orgs/setup-go/repositories)
+-  &nbsp; 🔥 When not coding, I post hot takes on twitter: [@ausaf_rashid](https://twitter.com/ausaf_rashid)
 
-- 📫 How to reach me **ausafrashid111@gmail.com**
+<br/>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-ausaf-rashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-ausaf-rashid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8105274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8105274" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ausaf007&show_icons=true&locale=en&layout=compact" alt="ausaf007" /></p>-->
-<!--<br /><br /><br /><br /><br />-->
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ausaf007&show_icons=true&locale=en" alt="ausaf007" /></p>-->
-<br />
-<p><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=ausaf007&" alt="ausaf007" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats-zeta-opal.vercel.app/?user=ausaf007" alt="ausaf007" /></p>
 
 ![Checkout Activity Graph](https://github-readme-activity-graph-two-tau.vercel.app/graph?username=ausaf007&theme=tokyo-night&custom_title=Ausaf's%20Contribution%20Graph)
