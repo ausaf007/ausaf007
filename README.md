@@ -91,7 +91,7 @@ I turn business ideas into simple, well-structured code.
   <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api?username=ausaf007&show_icons=true&hide_border=false&theme=transparent&hide_rank=true" />
 </a>
 <a >
-  <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api/top-langs/?username=ausaf007&theme=transparent&layout=compact&hide_border=false&exclude_repo=the-questioner" />
+  <img height=200 align="center" src="https://github-readme-stats-five-zeta-52.vercel.app/api/top-langs/?username=ausaf007&theme=transparent&layout=compact&hide_border=false&exclude_repo=the-questioner,github-readme-stats,github-readme-activity-graph,github-readme-streak-stats,IP&hide=css,Handlebars,NSIS" />
 </a>
 </div>
 </div>
