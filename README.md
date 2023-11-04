@@ -8,6 +8,7 @@ I turn business ideas into simple, well-structured code.
 
 ### About Me:
 
+-  &nbsp; 🛠️ Specialist in RPG (React, Postgres, Golang) Stack 
 -  &nbsp; 👨‍💻 Coding Ethos: [grug brain dev](https://grugbrain.dev/)
 -  &nbsp; 📫 Best way to reach me: [email](mailto:ausafrashid111@gmail.com) 
 -  &nbsp; 📝 Checkout my developer blog: [ausaf.dev](https://ausaf.dev)
