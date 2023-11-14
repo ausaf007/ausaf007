@@ -12,7 +12,7 @@ I turn business ideas into simple, well-structured code.
 -  &nbsp; 👨‍💻 Coding Ethos: [grug brain dev](https://grugbrain.dev/)
 -  &nbsp; 📫 Best way to reach me: [ausafrashid111@gmail.com](mailto:ausafrashid111@gmail.com) 
 -  &nbsp; 📝 Checkout my developer blog: [ausaf.dev](https://ausaf.dev)
--  &nbsp; 🔭 Currently I'm working on a devtool for one-command [Go server setup](https://github.com/orgs/setup-go/repositories)
+-  &nbsp; 🔭 Currently I'm working on a devtool for one-command Go server setup: [lets-go](https://github.com/ausaf007/lets-go)
 -  &nbsp; 🔥 When not coding, I post hot takes on twitter: [@ausaf_rashid](https://twitter.com/ausaf_rashid)
 
 <br/>
