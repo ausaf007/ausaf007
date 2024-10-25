@@ -80,6 +80,9 @@ I turn business ideas into simple, well-structured code.
   </tr>
 </table>
 
+<!---
+TODO: Fix the rate-limiting issue. 
+
 <h2 align="left">Github Stats</h2>
 
 > A picture is worth a thousand words
@@ -102,3 +105,4 @@ I turn business ideas into simple, well-structured code.
 
 | <picture><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=ausaf007&theme=tokyo-night&custom_title=Ausaf's%20Contribution%20Graph&hide_border=true&bg_color=0F1216" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=ausaf007&theme=minimal&custom_title=Ausaf's%20Contribution%20Graph" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img src="https://github-readme-activity-graph-two-tau.vercel.app/graph?username=ausaf007&theme=minimal&custom_title=Ausaf's%20Contribution%20Graph" /></picture> |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+-->
