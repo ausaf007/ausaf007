@@ -11,7 +11,7 @@ I turn business ideas into simple, well-structured code.
 -  &nbsp; 🛠️ Specialist in RPG (React, Postgres, Golang) Stack 
 -  &nbsp; 👨‍💻 Coding Ethos: [grug brain dev](https://grugbrain.dev/)
 -  &nbsp; 📫 Best way to reach me: [ausaf@focussofthq.com](mailto:ausaf@focussofthq.com) 
--  &nbsp; 🔭 Currently I'm building [market sdk](https://marketsdk.com) and [RC Feed](https://rcfeed.com)
+-  &nbsp; 🔭 Currently I'm building [market sdk](https://marketsdk.com) and [rc feed](https://rcfeed.com)
 -  &nbsp; 🔥 When not coding, I post hot takes on twitter: [@ausaf_rashid](https://twitter.com/ausaf_rashid)
 -  &nbsp; 🌱 Side Projects: [TOTP Bench](https://totpbench.com)
 
